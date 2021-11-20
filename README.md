@@ -1,2 +1,2 @@
-# money-transfer-system
+# Money-transfer-system
 
